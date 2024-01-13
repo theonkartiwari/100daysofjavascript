@@ -7,7 +7,7 @@ btn.addEventListener("click",()=>{
     const randomNumber = Math.floor(Math.random()*10+1);
     console.log(randomNumber);
     number.innerHTML=randomNumber;
-    console.log("Created by Shweta");
+    console.log("Created by Shweta ");
 
  });
 
